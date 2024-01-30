@@ -33,7 +33,7 @@ function Root() {
           <WalletModalProvider>
             <GambaProvider>
               <GambaPlatformProvider
-                creator={PLATFORM_CREATOR_ADDRESS}
+                creator={23nXePvpVParAALRbExFt7ce3x1trT47i3fvDXdwZMhS}
                 games={GAMES}
                 tokens={TOKENS}
                 defaultCreatorFee={00.05}
