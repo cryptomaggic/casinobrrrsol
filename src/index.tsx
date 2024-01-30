@@ -36,7 +36,7 @@ function Root() {
                 creator={PLATFORM_CREATOR_ADDRESS}
                 games={GAMES}
                 tokens={TOKENS}
-                defaultCreatorFee={08.00}
+                defaultCreatorFee={00.09}
                 defaultJackpotFee={0.001}
               >
                 <App />
