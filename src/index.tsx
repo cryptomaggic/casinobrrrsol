@@ -37,7 +37,7 @@ function Root() {
                 games={GAMES}
                 tokens={TOKENS}
                 defaultCreatorFee={00.05}
-                defaultJackpotFee={0.001}
+                defaultJackpotFee={0.00}
               >
                 <App />
               </GambaPlatformProvider>
